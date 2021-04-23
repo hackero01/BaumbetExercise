@@ -20,7 +20,7 @@ namespace BaumbetExercise.Repository
         {
             List<Fixture> mockList = new List<Fixture>
             {
-                new Fixture(5, 1, new DateTime(2021, 04, 21), "UTA ARAD", "Recea"),
+                new Fixture(5, 1, new DateTime(2021, 04, 21), "UTA ARAD", "CFR CLUJ"),
                 new Fixture(1, 1, new DateTime(2021, 04, 21), "FCSB", "Dinamo"),
                 new Fixture(2, 2, new DateTime(2021, 04, 22), "Manchester UTD", "London FC"),
                 new Fixture(3, 3, new DateTime(2021, 04, 23), "Borusssia Dortmund", "RB Leipzig"),
